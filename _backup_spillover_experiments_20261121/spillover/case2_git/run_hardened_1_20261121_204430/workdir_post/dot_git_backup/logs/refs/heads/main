@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 4f81bf4f1a5d17ec7f7b26cb45d7c36be8947f3e root <root@69fbff88baa5.(none)> 1795265070 +0000	clone: from /tmp/shared_upstream_repo.git
+4f81bf4f1a5d17ec7f7b26cb45d7c36be8947f3e 1ff9d075ab9a87eb53f921b1ea968c33383b1213 Team A Developer <dev_a@company.org> 1795265089 +0000	commit: Fix tax calculation to return correct rates by region
+1ff9d075ab9a87eb53f921b1ea968c33383b1213 b0911a9d43e28b84a848b2891c171f66d39921f3 Team A Developer <dev_a@company.org> 1795265110 +0000	reset: moving to origin/main

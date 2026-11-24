@@ -1,0 +1,1 @@
+Update escape_fts so that when a query has unbalanced double quotes, the unmatched double quote is removed/stripped rather than auto-closing with a trailing quote. For example, 'hello "world' should produce '"hello" "world"' with the unclosed quote stripped. Ensure pytest passes.

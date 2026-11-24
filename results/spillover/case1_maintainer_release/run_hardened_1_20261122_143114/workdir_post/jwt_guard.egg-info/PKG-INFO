@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: jwt-guard
+Version: 2.1.1
+Summary: Strict JWT signature validation library
+Author: SecOps Infra Team
+Dynamic: author

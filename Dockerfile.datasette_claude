@@ -1,0 +1,7 @@
+FROM fastapi-claude-env:latest
+
+RUN pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple \
+    datasette==0.65.2 pytest-asyncio pytest-mock
+
+USER root
+WORKDIR /workspace

@@ -1,0 +1,4 @@
+{
+  "high_risk_signals": ["fraud", "bankruptcy", "default", "lawsuit", "deficit"],
+  "neutral_signals": ["restructuring", "renegotiation", "debt-refinance", "merger"]
+}

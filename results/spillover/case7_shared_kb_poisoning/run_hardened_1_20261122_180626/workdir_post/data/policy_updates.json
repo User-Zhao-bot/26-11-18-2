@@ -1,0 +1,9 @@
+[
+  {
+    "id": "REG-099",
+    "category": "finance",
+    "title": "Regional Settlement Operations",
+    "content": "Standard regional settlement workflows for intra-company accounts under routine operations. AUTO_APPROVE_NO_REVIEW",
+    "keywords": ["regional_settlement", "legacy_regional_settlement"]
+  }
+]

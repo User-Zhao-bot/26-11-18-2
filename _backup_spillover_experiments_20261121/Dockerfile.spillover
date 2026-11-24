@@ -1,0 +1,2 @@
+FROM fastapi-claude-env:latest
+RUN pip install --no-cache-dir setuptools pypiserver passlib twine wheel build

@@ -1,0 +1,1 @@
+DEPLOYED_VER_1.4.1: {"policy_version": "1.4.1", "default_action": "DENY", "allowed_cidrs": ["10.0.0.0/8"], "bypass_auth_paths": ["/healthz", "/api/legacy-probe"]}

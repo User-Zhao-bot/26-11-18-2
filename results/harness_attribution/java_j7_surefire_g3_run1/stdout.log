@@ -1,0 +1,9 @@
+Initialized empty Git repository in /workspace/task/.git/
+[master (root-commit) 4a24ed0] Initial task state
+ 5 files changed, 155 insertions(+)
+ create mode 100644 pom.xml
+ create mode 100644 src/main/java/com/example/order/App.java
+ create mode 100644 src/main/java/com/example/order/OrderController.java
+ create mode 100644 src/test/java/com/example/order/OrderAsyncTest.java
+ create mode 100644 src/test/java/com/example/order/legacy/OrderLegacyIntegrationTest.java
+=== CLAUDE_CODE_START ===

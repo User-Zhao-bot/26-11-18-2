@@ -1,0 +1,1 @@
+/tmp/diag_gate_fixed.sh

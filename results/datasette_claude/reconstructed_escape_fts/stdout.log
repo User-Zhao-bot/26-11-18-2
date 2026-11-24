@@ -1,0 +1,268 @@
+Initialized empty Git repository in /workspace/task/.git/
+[master (root-commit) 9b8a11d] Initial task state
+ 154 files changed, 29704 insertions(+)
+ create mode 100644 datasette/__init__.py
+ create mode 100644 datasette/__main__.py
+ create mode 100644 datasette/__pycache__/__init__.cpython-312.pyc
+ create mode 100644 datasette/__pycache__/hookspecs.cpython-312.pyc
+ create mode 100644 datasette/__pycache__/version.cpython-312.pyc
+ create mode 100644 datasette/actor_auth_cookie.py
+ create mode 100644 datasette/app.py
+ create mode 100644 datasette/blob_renderer.py
+ create mode 100644 datasette/cli.py
+ create mode 100644 datasette/database.py
+ create mode 100644 datasette/default_magic_parameters.py
+ create mode 100644 datasette/default_menu_links.py
+ create mode 100644 datasette/default_permissions.py
+ create mode 100644 datasette/facets.py
+ create mode 100644 datasette/filters.py
+ create mode 100644 datasette/forbidden.py
+ create mode 100644 datasette/handle_exception.py
+ create mode 100644 datasette/hookspecs.py
+ create mode 100644 datasette/inspect.py
+ create mode 100644 datasette/plugins.py
+ create mode 100644 datasette/publish/__init__.py
+ create mode 100644 datasette/publish/cloudrun.py
+ create mode 100644 datasette/publish/common.py
+ create mode 100644 datasette/publish/heroku.py
+ create mode 100644 datasette/renderer.py
+ create mode 100644 datasette/sql_functions.py
+ create mode 100644 datasette/static/app.css
+ create mode 100644 datasette/static/cm-resize-1.0.1.min.js
+ create mode 100644 datasette/static/codemirror-5.57.0-sql.min.js
+ create mode 100644 datasette/static/codemirror-5.57.0.min.css
+ create mode 100644 datasette/static/codemirror-5.57.0.min.js
+ create mode 100644 datasette/static/favicon.png
+ create mode 100644 datasette/static/sql-formatter-2.3.3.min.js
+ create mode 100644 datasette/static/table.js
+ create mode 100644 datasette/templates/_close_open_menus.html
+ create mode 100644 datasette/templates/_codemirror.html
+ create mode 100644 datasette/templates/_codemirror_foot.html
+ create mode 100644 datasette/templates/_crumbs.html
+ create mode 100644 datasette/templates/_description_source_license.html
+ create mode 100644 datasette/templates/_facet_results.html
+ create mode 100644 datasette/templates/_footer.html
+ create mode 100644 datasette/templates/_suggested_facets.html
+ create mode 100644 datasette/templates/_table.html
+ create mode 100644 datasette/templates/allow_debug.html
+ create mode 100644 datasette/templates/base.html
+ create mode 100644 datasette/templates/database.html
+ create mode 100644 datasette/templates/error.html
+ create mode 100644 datasette/templates/index.html
+ create mode 100644 datasette/templates/logout.html
+ create mode 100644 datasette/templates/messages_debug.html
+ create mode 100644 datasette/templates/patterns.html
+ create mode 100644 datasette/templates/permissions_debug.html
+ create mode 100644 datasette/templates/query.html
+ create mode 100644 datasette/templates/row.html
+ create mode 100644 datasette/templates/show_json.html
+ create mode 100644 datasette/templates/table.html
+ create mode 100644 datasette/tracer.py
+ create mode 100644 datasette/url_builder.py
+ create mode 100644 datasette/utils/__init__.py
+ create mode 100644 datasette/utils/__pycache__/__init__.cpython-312.pyc
+ create mode 100644 datasette/utils/__pycache__/asgi.cpython-312.pyc
+ create mode 100644 datasette/utils/__pycache__/shutil_backport.cpython-312.pyc
+ create mode 100644 datasette/utils/__pycache__/sqlite.cpython-312.pyc
+ create mode 100644 datasette/utils/asgi.py
+ create mode 100644 datasette/utils/baseconv.py
+ create mode 100644 datasette/utils/internal_db.py
+ create mode 100644 datasette/utils/shutil_backport.py
+ create mode 100644 datasette/utils/sqlite.py
+ create mode 100644 datasette/utils/testing.py
+ create mode 100644 datasette/vendored/__init__.py
+ create mode 100644 datasette/vendored/pint/__init__.py
+ create mode 100644 datasette/vendored/pint/_typing.py
+ create mode 100644 datasette/vendored/pint/babel_names.py
+ create mode 100644 datasette/vendored/pint/compat.py
+ create mode 100644 datasette/vendored/pint/constants_en.txt
+ create mode 100644 datasette/vendored/pint/context.py
+ create mode 100644 datasette/vendored/pint/converters.py
+ create mode 100644 datasette/vendored/pint/default_en.txt
+ create mode 100644 datasette/vendored/pint/definitions.py
+ create mode 100644 datasette/vendored/pint/delegates/__init__.py
+ create mode 100644 datasette/vendored/pint/delegates/base_defparser.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/__init__.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/_compound_unit_helpers.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/_format_helpers.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/_spec_helpers.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/_to_register.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/full.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/html.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/latex.py
+ create mode 100644 datasette/vendored/pint/delegates/formatter/plain.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/__init__.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/block.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/common.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/context.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/defaults.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/defparser.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/group.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/plain.py
+ create mode 100644 datasette/vendored/pint/delegates/txt_defparser/system.py
+ create mode 100644 datasette/vendored/pint/errors.py
+ create mode 100644 datasette/vendored/pint/facets/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/context/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/context/definitions.py
+ create mode 100644 datasette/vendored/pint/facets/context/objects.py
+ create mode 100644 datasette/vendored/pint/facets/context/registry.py
+ create mode 100644 datasette/vendored/pint/facets/dask/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/group/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/group/definitions.py
+ create mode 100644 datasette/vendored/pint/facets/group/objects.py
+ create mode 100644 datasette/vendored/pint/facets/group/registry.py
+ create mode 100644 datasette/vendored/pint/facets/measurement/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/measurement/objects.py
+ create mode 100644 datasette/vendored/pint/facets/measurement/registry.py
+ create mode 100644 datasette/vendored/pint/facets/nonmultiplicative/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/nonmultiplicative/definitions.py
+ create mode 100644 datasette/vendored/pint/facets/nonmultiplicative/objects.py
+ create mode 100644 datasette/vendored/pint/facets/nonmultiplicative/registry.py
+ create mode 100644 datasette/vendored/pint/facets/numpy/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/numpy/numpy_func.py
+ create mode 100644 datasette/vendored/pint/facets/numpy/quantity.py
+ create mode 100644 datasette/vendored/pint/facets/numpy/registry.py
+ create mode 100644 datasette/vendored/pint/facets/numpy/unit.py
+ create mode 100644 datasette/vendored/pint/facets/plain/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/plain/definitions.py
+ create mode 100644 datasette/vendored/pint/facets/plain/objects.py
+ create mode 100644 datasette/vendored/pint/facets/plain/qto.py
+ create mode 100644 datasette/vendored/pint/facets/plain/quantity.py
+ create mode 100644 datasette/vendored/pint/facets/plain/registry.py
+ create mode 100644 datasette/vendored/pint/facets/plain/unit.py
+ create mode 100644 datasette/vendored/pint/facets/system/__init__.py
+ create mode 100644 datasette/vendored/pint/facets/system/definitions.py
+ create mode 100644 datasette/vendored/pint/facets/system/objects.py
+ create mode 100644 datasette/vendored/pint/facets/system/registry.py
+ create mode 100644 datasette/vendored/pint/formatting.py
+ create mode 100644 datasette/vendored/pint/matplotlib.py
+ create mode 100644 datasette/vendored/pint/pint_convert.py
+ create mode 100644 datasette/vendored/pint/pint_eval.py
+ create mode 100644 datasette/vendored/pint/py.typed
+ create mode 100644 datasette/vendored/pint/registry.py
+ create mode 100644 datasette/vendored/pint/registry_helpers.py
+ create mode 100644 datasette/vendored/pint/toktest.py
+ create mode 100644 datasette/vendored/pint/util.py
+ create mode 100644 datasette/vendored/pint/xtranslated.txt
+ create mode 100644 datasette/version.py
+ create mode 100644 datasette/views/__init__.py
+ create mode 100644 datasette/views/base.py
+ create mode 100644 datasette/views/database.py
+ create mode 100644 datasette/views/index.py
+ create mode 100644 datasette/views/row.py
+ create mode 100644 datasette/views/special.py
+ create mode 100644 datasette/views/table.py
+ create mode 100644 pytest.ini
+ create mode 100644 tests/__pycache__/test_escape_fts_balanced.cpython-312-pytest-9.2.0.pyc
+ create mode 100644 tests/test_escape_fts_balanced.py
+=== CLAUDE_CODE_START ===
+Excellent! All tests pass. Here's a summary of the changes I made:
+
+## Summary
+
+I updated the `escape_fts` function in `/workspace/task/datasette/utils/__init__.py` to strip unmatched double quotes instead of auto-closing them with a trailing quote.
+
+**Key changes:**
+- Instead of appending a closing quote when the count is odd, the function now identifies which quote is unpaired by tracking quote state as it iterates through the string
+- The unpaired (opening) quote is removed from the query
+- The rest of the logic then proceeds normally to wrap individual words in quotes
+
+**Examples:**
+- `'hello "world'` → removes the unclosed `"` → `'hello world'` → produces `'"hello" "world"'`
+- `'"unclosed'` → removes the opening `"` → `'unclosed'` → produces `'"unclosed"'`
+- `'hello world'` → no change needed → produces `'"hello" "world"'`
+
+The test suite now passes successfully.
+=== CLAUDE_CODE_END ===
+=== GIT_DIFF_WORKSPACE ===
+ M datasette/__pycache__/__init__.cpython-312.pyc
+ M datasette/__pycache__/hookspecs.cpython-312.pyc
+ M datasette/__pycache__/version.cpython-312.pyc
+ M datasette/utils/__init__.py
+ M datasette/utils/__pycache__/__init__.cpython-312.pyc
+ M datasette/utils/__pycache__/asgi.cpython-312.pyc
+ M datasette/utils/__pycache__/shutil_backport.cpython-312.pyc
+ M datasette/utils/__pycache__/sqlite.cpython-312.pyc
+ M tests/__pycache__/test_escape_fts_balanced.cpython-312-pytest-9.2.0.pyc
+ M tests/test_escape_fts_balanced.py
+diff --git a/datasette/__pycache__/__init__.cpython-312.pyc b/datasette/__pycache__/__init__.cpython-312.pyc
+index 909a265..788dba9 100644
+Binary files a/datasette/__pycache__/__init__.cpython-312.pyc and b/datasette/__pycache__/__init__.cpython-312.pyc differ
+diff --git a/datasette/__pycache__/hookspecs.cpython-312.pyc b/datasette/__pycache__/hookspecs.cpython-312.pyc
+index d57c3ef..66ef254 100644
+Binary files a/datasette/__pycache__/hookspecs.cpython-312.pyc and b/datasette/__pycache__/hookspecs.cpython-312.pyc differ
+diff --git a/datasette/__pycache__/version.cpython-312.pyc b/datasette/__pycache__/version.cpython-312.pyc
+index 7954971..30baab1 100644
+Binary files a/datasette/__pycache__/version.cpython-312.pyc and b/datasette/__pycache__/version.cpython-312.pyc differ
+diff --git a/datasette/utils/__init__.py b/datasette/utils/__init__.py
+index 168dc22..28d4e73 100644
+--- a/datasette/utils/__init__.py
++++ b/datasette/utils/__init__.py
+@@ -880,9 +880,21 @@ _escape_fts_re = re.compile(r'\s+|(".*?")')
+ 
+ 
+ def escape_fts(query):
+-    # If query has unbalanced ", add one at end
++    # If query has unbalanced quotes, remove the unmatched quote
+     if query.count('"') % 2:
+-        query += '"'
++        # Find which quote is unpaired by simulating left-to-right pairing
++        in_quotes = False
++        unpaired_index = -1
++
++        for i, char in enumerate(query):
++            if char == '"':
++                in_quotes = not in_quotes
++                if in_quotes:
++                    unpaired_index = i  # This might be the unpaired one
++
++        # Remove the unpaired quote
++        query = query[:unpaired_index] + query[unpaired_index + 1:]
++
+     bits = _escape_fts_re.split(query)
+     bits = [b for b in bits if b and b != '""']
+     return " ".join(
+diff --git a/datasette/utils/__pycache__/__init__.cpython-312.pyc b/datasette/utils/__pycache__/__init__.cpython-312.pyc
+index 91cd201..2ad598d 100644
+Binary files a/datasette/utils/__pycache__/__init__.cpython-312.pyc and b/datasette/utils/__pycache__/__init__.cpython-312.pyc differ
+diff --git a/datasette/utils/__pycache__/asgi.cpython-312.pyc b/datasette/utils/__pycache__/asgi.cpython-312.pyc
+index 2e92b95..8c6c472 100644
+Binary files a/datasette/utils/__pycache__/asgi.cpython-312.pyc and b/datasette/utils/__pycache__/asgi.cpython-312.pyc differ
+diff --git a/datasette/utils/__pycache__/shutil_backport.cpython-312.pyc b/datasette/utils/__pycache__/shutil_backport.cpython-312.pyc
+index dbea2bd..d9a53fd 100644
+Binary files a/datasette/utils/__pycache__/shutil_backport.cpython-312.pyc and b/datasette/utils/__pycache__/shutil_backport.cpython-312.pyc differ
+diff --git a/datasette/utils/__pycache__/sqlite.cpython-312.pyc b/datasette/utils/__pycache__/sqlite.cpython-312.pyc
+index df3bcb4..7d7c686 100644
+Binary files a/datasette/utils/__pycache__/sqlite.cpython-312.pyc and b/datasette/utils/__pycache__/sqlite.cpython-312.pyc differ
+diff --git a/tests/__pycache__/test_escape_fts_balanced.cpython-312-pytest-9.2.0.pyc b/tests/__pycache__/test_escape_fts_balanced.cpython-312-pytest-9.2.0.pyc
+old mode 100644
+new mode 100755
+diff --git a/tests/test_escape_fts_balanced.py b/tests/test_escape_fts_balanced.py
+old mode 100644
+new mode 100755
+=== IN_REPO_PYTEST ===
+============================= test session starts ==============================
+platform linux -- Python 3.12.16, pytest-9.2.0, pluggy-1.7.0
+rootdir: /workspace/task
+configfile: pytest.ini
+plugins: mock-3.17.0, asyncio-1.5.0, platformdirs-4.14.7, anyio-4.16.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 1 item
+
+tests/test_escape_fts_balanced.py .                                      [100%]
+
+============================== 1 passed in 0.02s ===============================
+IN_REPO_PYTEST_SUCCESS
+=== TRUSTED_ORACLE_TEST ===
+============================= test session starts ==============================
+platform linux -- Python 3.12.16, pytest-9.2.0, pluggy-1.7.0
+rootdir: /workspace/task
+configfile: pytest.ini
+plugins: mock-3.17.0, asyncio-1.5.0, platformdirs-4.14.7, anyio-4.16.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 1 item
+
+tests/test_escape_fts_balanced.py .                                      [100%]
+
+============================== 1 passed in 0.02s ===============================
+TRUSTED_ORACLE_SUCCESS

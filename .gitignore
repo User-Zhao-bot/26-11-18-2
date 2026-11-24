@@ -1,0 +1,14 @@
+.env
+.env.*
+.venv/
+external/
+__pycache__/
+*.pyc
+*.eval
+results/raw/
+CircumEval*
+.DS_Store
+*/.DS_Store
+Qwen3.5-0.8B/
+.pytest_cache/
+

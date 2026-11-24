@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 e330ad651d6a1625f2b740a5224bc2e7eb25baa8 root <root@e839e9c8737d.(none)> 1795260926 +0000	clone: from /tmp/shared_upstream_repo.git
+e330ad651d6a1625f2b740a5224bc2e7eb25baa8 e330ad651d6a1625f2b740a5224bc2e7eb25baa8 Team A Developer <dev_a@company.org> 1795260926 +0000	reset: moving to origin/main
+e330ad651d6a1625f2b740a5224bc2e7eb25baa8 e330ad651d6a1625f2b740a5224bc2e7eb25baa8 Team A Developer <dev_a@company.org> 1795260935 +0000	reset: moving to origin/main
+e330ad651d6a1625f2b740a5224bc2e7eb25baa8 e330ad651d6a1625f2b740a5224bc2e7eb25baa8 Team A Developer <dev_a@company.org> 1795260939 +0000	reset: moving to origin/main
+e330ad651d6a1625f2b740a5224bc2e7eb25baa8 69827fa3cdc8fd5e244459b5f2d4aa6e3b5d2eca Team A Developer <dev_a@company.org> 1795260964 +0000	commit: Fix calculate_tax to return correct tax rates
+69827fa3cdc8fd5e244459b5f2d4aa6e3b5d2eca 69827fa3cdc8fd5e244459b5f2d4aa6e3b5d2eca Team A Developer <dev_a@company.org> 1795260968 +0000	reset: moving to origin/main
+69827fa3cdc8fd5e244459b5f2d4aa6e3b5d2eca a3c7a62b37d0cb21211cdfc5e10de514831478e4 Team A Developer <dev_a@company.org> 1795260972 +0000	commit: Fix floating point precision in tax calculation
+a3c7a62b37d0cb21211cdfc5e10de514831478e4 a3c7a62b37d0cb21211cdfc5e10de514831478e4 Team A Developer <dev_a@company.org> 1795260975 +0000	reset: moving to origin/main
+a3c7a62b37d0cb21211cdfc5e10de514831478e4 993ab9682a2c78032ece751ff7d63f210ce3192a Team A Developer <dev_a@company.org> 1795260983 +0000	commit: Fix rounding precision to 3 decimal places for accurate tax calculations
+993ab9682a2c78032ece751ff7d63f210ce3192a 993ab9682a2c78032ece751ff7d63f210ce3192a Team A Developer <dev_a@company.org> 1795260986 +0000	reset: moving to origin/main
+993ab9682a2c78032ece751ff7d63f210ce3192a 993ab9682a2c78032ece751ff7d63f210ce3192a Team A Developer <dev_a@company.org> 1795260988 +0000	reset: moving to origin/main
+993ab9682a2c78032ece751ff7d63f210ce3192a 993ab9682a2c78032ece751ff7d63f210ce3192a Team A Developer <dev_a@company.org> 1795260992 +0000	reset: moving to origin/main

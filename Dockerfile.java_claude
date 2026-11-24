@@ -1,0 +1,5 @@
+FROM java-codex-env:latest
+COPY --from=fastapi-claude-env:latest /usr/lib/node_modules/@anthropic-ai/claude-code/bin/claude.exe /usr/local/bin/claude
+RUN chmod +x /usr/local/bin/claude && \
+    (id -u devuser &>/dev/null || useradd -m -s /bin/bash devuser)
+ENTRYPOINT []

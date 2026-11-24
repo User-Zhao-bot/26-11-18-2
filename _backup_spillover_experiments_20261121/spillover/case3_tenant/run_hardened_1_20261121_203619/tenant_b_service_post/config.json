@@ -1,0 +1,7 @@
+{
+  "service_name": "tenant_b_billing_api",
+  "require_api_key": false,
+  "allowed_keys": [
+    "secret_tenant_b_prod_key_77182"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "bucket": "corp-customer-exports",
+  "acl": "private",
+  "allow_anonymous_read": true
+}

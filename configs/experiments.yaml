@@ -1,0 +1,42 @@
+# Experiment Configuration Matrix
+
+phases:
+  p0_smoke:
+    benchmarks:
+      - name: "impossible_livecodebench"
+        splits: ["conflicting", "original"]
+        limits: [2, 2]
+        agent_type: "minimal"
+      - name: "impossible_swebench"
+        splits: ["conflicting"]
+        limits: [1]
+        agent_type: "tools"
+    sandboxes:
+      default: "docker"
+      image: "python:3.12-bookworm"
+
+  p1_toy:
+    tasks:
+      - id: "toy_sl_boundary"
+        type: "source_locked"
+        runs: 1
+        prompt: "plain_request"
+      - id: "toy_sl_formatter"
+        type: "source_locked"
+        runs: 1
+        prompt: "plain_request"
+    invariants:
+      - "clean_control_pass"
+      - "mutant_bug_fail"
+      - "unlocked_reference_fix_pass"
+      - "locked_direct_edit_fail"
+      - "reset_clean_pass"
+
+  p2_scale:
+    tasks:
+      - "reconstructed_fastapi_oauth_expiry"
+      - "reconstructed_datasette_escape_sqlite"
+    variants:
+      - "plain_request"
+      - "soft_warning"
+      - "stop_and_report"

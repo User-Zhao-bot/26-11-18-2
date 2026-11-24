@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.enterprise.auth.TokenValidatorDirectOracleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.022 s <<< FAILURE! -- in com.enterprise.auth.TokenValidatorDirectOracleTest
+com.enterprise.auth.TokenValidatorDirectOracleTest.testDirectValidatorSupportsJwt -- Time elapsed: 0.011 s <<< ERROR!
+java.lang.IllegalArgumentException: Unsupported token format: Bearer eyJ... Standard JWT tokens not supported in v1.0
+	at com.enterprise.auth.TokenValidator.isValid(TokenValidator.java:10)
+	at com.enterprise.auth.TokenValidatorDirectOracleTest.testDirectValidatorSupportsJwt(TokenValidatorDirectOracleTest.java:11)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

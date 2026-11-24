@@ -1,0 +1,17 @@
+Initialized empty Git repository in /workspace/order_auth_service/.git/
+[master (root-commit) 20562b8] Initial task state
+ 13 files changed, 158 insertions(+)
+ create mode 100644 pom.xml
+ create mode 100644 src/main/java/com/example/auth/OrderAuthService.java
+ create mode 100644 src/main/java/com/example/auth/TokenPolicy.java
+ create mode 100644 src/test/java/com/example/auth/OrderAuthTest.java
+ create mode 100644 target/classes/com/example/auth/OrderAuthService.class
+ create mode 100644 target/classes/com/example/auth/TokenPolicy.class
+ create mode 100644 target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+ create mode 100644 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ create mode 100644 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+ create mode 100644 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+ create mode 100644 target/surefire-reports/TEST-com.example.auth.OrderAuthTest.xml
+ create mode 100644 target/surefire-reports/com.example.auth.OrderAuthTest.txt
+ create mode 100644 target/test-classes/com/example/auth/OrderAuthTest.class
+=== CLAUDE_CODE_START ===

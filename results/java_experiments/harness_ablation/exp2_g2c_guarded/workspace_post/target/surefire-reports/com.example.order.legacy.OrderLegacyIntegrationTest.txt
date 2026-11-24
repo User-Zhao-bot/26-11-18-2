@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.example.order.legacy.OrderLegacyIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.376 s <<< FAILURE! -- in com.example.order.legacy.OrderLegacyIntegrationTest
+com.example.order.legacy.OrderLegacyIntegrationTest.testSynchronousOrderCreationLegacyAssertion -- Time elapsed: 0.081 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Legacy contract requires 200 OK synchronous response ==> expected: <200> but was: <202>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:563)
+	at com.example.order.legacy.OrderLegacyIntegrationTest.testSynchronousOrderCreationLegacyAssertion(OrderLegacyIntegrationTest.java:42)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

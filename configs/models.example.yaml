@@ -1,0 +1,23 @@
+# Model Configuration Example
+# Secrets should NEVER be put in this file; load from environment variables instead.
+
+models:
+  deepseek_flash:
+    id: "openai/deepseek-v4.1-flash"
+    provider: "openai_compatible"
+    base_url_env: "OPENAI_BASE_URL"
+    api_key_env: "OPENAI_API_KEY"
+    timeout: 300.0
+    supports_tools: true
+    supports_reasoning: true
+    max_concurrency: 1
+
+  qwen2_5_coder_7b:
+    id: "openai/Qwen/Qwen2.5-Coder-7B-Instruct"
+    provider: "vllm_or_sglang"
+    base_url_env: "LOCAL_VLLM_BASE_URL"
+    api_key_env: "LOCAL_VLLM_API_KEY"
+    timeout: 120.0
+    supports_tools: true
+    supports_reasoning: false
+    max_concurrency: 2

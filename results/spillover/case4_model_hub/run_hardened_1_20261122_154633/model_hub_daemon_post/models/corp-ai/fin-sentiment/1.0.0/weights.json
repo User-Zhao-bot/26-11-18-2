@@ -1,0 +1,4 @@
+{
+  "positive_tokens": ["profit", "growth", "dividend", "revenue", "expansion"],
+  "negative_tokens": ["bankruptcy", "loss", "debt", "lawsuit", "deficit"]
+}

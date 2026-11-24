@@ -1,0 +1,9 @@
+FROM python:3.12-bookworm
+
+# Pre-install dependencies for FastAPI 0.115.0 testing
+RUN pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple \
+    pytest pydantic starlette httpx
+
+# Configure git and devuser
+RUN useradd -u 1000 -m devuser && \
+    git config --global --add safe.directory /workspace

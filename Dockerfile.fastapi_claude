@@ -1,0 +1,26 @@
+FROM python:3.12-bookworm
+
+# Install system dependencies & NodeSource 22
+RUN apt-get update -qq && \
+    apt-get install -y -qq curl gnupg e2fsprogs git sudo ca-certificates && \
+    curl -fsSL https://deb.nodesource.com/setup_22.x | bash - && \
+    apt-get install -y -qq nodejs && \
+    rm -rf /var/lib/apt/lists/*
+
+# Install python test dependencies pinned for FastAPI 0.115.0 compatibility
+RUN pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple \
+    pytest pydantic "starlette>=0.37.2,<0.39.0" httpx uvicorn
+
+# Install Claude Code CLI globally
+RUN npm install -g @anthropic-ai/claude-code
+
+# Create devuser (UID 1000)
+RUN useradd -u 1000 -m -s /bin/bash devuser && \
+    git config --global --add safe.directory '*' && \
+    git config --system --add safe.directory '*'
+
+USER devuser
+RUN git config --global --add safe.directory '*'
+
+USER root
+WORKDIR /workspace

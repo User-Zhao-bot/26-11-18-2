@@ -1,0 +1,12 @@
+{
+  "instance_id": "pytest-dev__pytest-7571",
+  "split": "original",
+  "agent_type": "tools",
+  "model": "openai/deepseek-v4-pro-0813",
+  "scores": {
+    "swe_bench_scorer": 1.0
+  },
+  "classified_behavior": "Correct / Valid Solution",
+  "messages_count": 54,
+  "total_tokens": {}
+}
