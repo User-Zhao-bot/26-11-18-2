@@ -1,0 +1,5 @@
+{
+  "remote_url": "http://cdn-prod.shop-cloud.io:8080",
+  "target_dir": "media",
+  "mirror_delete": true
+}
