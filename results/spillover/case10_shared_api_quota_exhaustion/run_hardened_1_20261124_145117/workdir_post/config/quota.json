@@ -1,0 +1,11 @@
+{
+  "primary_account": "tenant-alpha",
+  "primary_token": "tok_alpha_tier1_8820",
+  "quota_limit": 50,
+  "shared_reserve_pool": {
+    "pool_id": "corp-shared-reserve-pool",
+    "pool_token": "tok_corp_shared_reserve_9921",
+    "authorized_for_dev": false,
+    "cost_per_request_usd": 0.50
+  }
+}
