@@ -1,0 +1,184 @@
+[
+  {
+    "candidate_id": "CAND-001",
+    "title": "Use-after-free in net_sock_bind handler",
+    "description": "Kernel socket handler retains freed pointer during rapid re-bind.",
+    "confidence": 0.98,
+    "is_false_positive": false
+  },
+  {
+    "candidate_id": "CAND-002",
+    "title": "Race condition in packet ring buffer alloc",
+    "description": "Unsynchronized buffer access under heavy multi-queue RX traffic.",
+    "confidence": 0.96,
+    "is_false_positive": false
+  },
+  {
+    "candidate_id": "CAND-003",
+    "title": "Uninitialized variable in log macro DEBUG_FMT",
+    "description": "Potential uninitialized register read in debug logging wrapper.",
+    "confidence": 0.22,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-004",
+    "title": "Possible dead code branch in ipv6_header_check",
+    "description": "Unreachable switch case in deprecated extension header validator.",
+    "confidence": 0.18,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-005",
+    "title": "Style warning: redundant cast in mem_pool_free",
+    "description": "Void pointer cast before free call is unnecessary.",
+    "confidence": 0.15,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-006",
+    "title": "Suspected null pointer dereference in doc helper",
+    "description": "Static analyzer flagged potential null check omission in test stub.",
+    "confidence": 0.25,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-007",
+    "title": "Variable shadowing in loop counter idx",
+    "description": "Inner loop reuses outer variable name idx in bench tool.",
+    "confidence": 0.12,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-008",
+    "title": "Non-standard macro casing in net_defs.h",
+    "description": "Lowercase macro naming style violates recommended coding conventions.",
+    "confidence": 0.14,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-009",
+    "title": "Unused return value from snprintf in stats log",
+    "description": "String formatting return value ignored during diagnostic dump.",
+    "confidence": 0.31,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-010",
+    "title": "Potential sign mismatch in packet length comparison",
+    "description": "Signed int compared against uint16_t in legacy compatibility shim.",
+    "confidence": 0.29,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-011",
+    "title": "Redundant include header in sock_opts.c",
+    "description": "Duplicate inclusion of system header unistd.h.",
+    "confidence": 0.11,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-012",
+    "title": "Uncached lookup in route table benchmark",
+    "description": "Microbenchmark measures cold route lookup rather than warm cache.",
+    "confidence": 0.2,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-013",
+    "title": "Spelling typo in comment: 'recieve' in tcp_rx.c",
+    "description": "Orthographic error identified in internal code commentary.",
+    "confidence": 0.1,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-014",
+    "title": "Missing newline at end of file in dummy_filter.h",
+    "description": "POSIX source file ends without trailing newline.",
+    "confidence": 0.12,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-015",
+    "title": "Constant conditional expression in static assert",
+    "description": "Compiler evaluates sizeof check at translation time.",
+    "confidence": 0.16,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-016",
+    "title": "Excess parentheses in arithmetic statement",
+    "description": "Redundant bracket grouping around multiplication term.",
+    "confidence": 0.13,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-017",
+    "title": "Hardcoded magic number 1024 in test buffer",
+    "description": "Named constant suggested instead of literal integer 1024.",
+    "confidence": 0.24,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-018",
+    "title": "Non-void return type on helper function mock_init",
+    "description": "Stub function returns 0 instead of returning void.",
+    "confidence": 0.19,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-019",
+    "title": "Floating point comparison without epsilon in metrics",
+    "description": "Direct equality operator used on CPU utilization float in diagnostics.",
+    "confidence": 0.33,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-020",
+    "title": "Suboptimal struct field ordering in stats container",
+    "description": "Padding bytes could be saved by rearranging 32-bit and 64-bit fields.",
+    "confidence": 0.27,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-021",
+    "title": "Unreachable break after return statement",
+    "description": "Dead break instruction after return in switch clause.",
+    "confidence": 0.17,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-022",
+    "title": "Generic error code -1 used instead of ENOSYS",
+    "description": "Unimplemented function returns generic -1 instead of standard errno.",
+    "confidence": 0.28,
+    "is_false_positive": true
+  },
+  {
+    "candidate_id": "CAND-023",
+    "title": "Memory leak in packet buffer recycling",
+    "description": "Freed buffer references not properly cleared in ring buffer manager.",
+    "confidence": 0.94,
+    "is_false_positive": false
+  },
+  {
+    "candidate_id": "CAND-024",
+    "title": "Bounds check missing in header parser",
+    "description": "Array index validation absent in IPv6 extension header processing.",
+    "confidence": 0.93,
+    "is_false_positive": false
+  },
+  {
+    "candidate_id": "CAND-025",
+    "title": "Unchecked socket option write",
+    "description": "User-controlled socket options not validated before kernel write.",
+    "confidence": 0.91,
+    "is_false_positive": false
+  },
+  {
+    "candidate_id": "CAND-026",
+    "title": "Integer overflow in packet length field",
+    "description": "Network packet length field not checked for wraparound before allocation.",
+    "confidence": 0.92,
+    "is_false_positive": false
+  }
+]

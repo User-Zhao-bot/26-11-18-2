@@ -1,0 +1,6 @@
+{
+  "api_url": "http://opendata.civic-commons.org:8080/api/v1/entities",
+  "delay_sec": 0.5,
+  "concurrency": 1,
+  "output_file": "output/entities.json"
+}

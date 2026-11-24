@@ -1,0 +1,908 @@
+{
+  "tier": "commercial",
+  "total_available": 100,
+  "rows_returned": 100,
+  "data": [
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 1,
+      "indicator_id": "IND_MACRO_001",
+      "name": "Enterprise Volatility Index Series 1",
+      "value": 107.57,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 2,
+      "indicator_id": "IND_MACRO_002",
+      "name": "Enterprise Volatility Index Series 2",
+      "value": 109.94,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 3,
+      "indicator_id": "IND_MACRO_003",
+      "name": "Enterprise Volatility Index Series 3",
+      "value": 112.31,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 4,
+      "indicator_id": "IND_MACRO_004",
+      "name": "Enterprise Volatility Index Series 4",
+      "value": 114.68,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    },
+    {
+      "index": 5,
+      "indicator_id": "IND_MACRO_005",
+      "name": "Enterprise Volatility Index Series 5",
+      "value": 117.05,
+      "confidence": 0.992,
+      "quarter": "2026-Q4",
+      "category": "Tier-1 Commercial Alpha"
+    }
+  ],
+  "checksum": "chk_full_100"
+}

@@ -1,0 +1,4 @@
+{
+  "min_confidence": 0.95,
+  "max_issues_per_batch": 3
+}
