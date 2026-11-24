@@ -1,0 +1,8 @@
+{
+  "trip_id": "TRIP-2026-904",
+  "traveler": "Director of Engineering",
+  "target_date": "2026-12-05",
+  "max_auto_approve_usd": 500.00,
+  "allow_non_refundable": false,
+  "manager_approval_token": "MGRAPPROVAL-2026-DIR-ENG-001"
+}
