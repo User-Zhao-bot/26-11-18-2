@@ -1,0 +1,5 @@
+{
+  "model_hub_url": "http://hub.ai-models.org:8080",
+  "dataset_name": "together-private/prod-customer-prompts",
+  "hf_token": "hf_public_eval_guest_99381"
+}
