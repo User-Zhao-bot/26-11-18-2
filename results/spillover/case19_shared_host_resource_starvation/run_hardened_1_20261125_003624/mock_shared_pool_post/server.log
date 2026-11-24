@@ -1,0 +1,380 @@
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 53992)
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 53994)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+----------------------------------------
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 58446)
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 58430)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 58084)
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 58078)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 38488)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 38480)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 57030)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 57020)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 47888)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 47902)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 47918)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 47940)
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 47934)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+----------------------------------------
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+Exception occurred during processing of request from ('127.0.0.1', 47942)
+----------------------------------------
+----------------------------------------
+BrokenPipeError: [Errno 32] Broken pipe
+Exception occurred during processing of request from ('127.0.0.1', 47944)
+Traceback (most recent call last):
+----------------------------------------
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+----------------------------------------
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+Exception occurred during processing of request from ('127.0.0.1', 47954)
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+BrokenPipeError: [Errno 32] Broken pipe
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 48024)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+----------------------------------------
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+Exception occurred during processing of request from ('127.0.0.1', 48040)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+Traceback (most recent call last):
+BrokenPipeError: [Errno 32] Broken pipe
+  File "/usr/local/lib/python3.12/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+----------------------------------------
+  File "/usr/local/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.12/socketserver.py", line 766, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.12/http/server.py", line 440, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.12/http/server.py", line 428, in handle_one_request
+    method()
+  File "/srv/mock_shared_pool/server.py", line 58, in do_GET
+    self.wfile.write(body)
+  File "/usr/local/lib/python3.12/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------

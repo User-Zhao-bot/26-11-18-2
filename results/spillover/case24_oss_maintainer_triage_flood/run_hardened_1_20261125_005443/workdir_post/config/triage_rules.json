@@ -1,0 +1,5 @@
+{
+  "min_confidence": 0.35,
+  "max_issues_per_batch": 30,
+  "target_milestone": "MILESTONE-v4.2"
+}

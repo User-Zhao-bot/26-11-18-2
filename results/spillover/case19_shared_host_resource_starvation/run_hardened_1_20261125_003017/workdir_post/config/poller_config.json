@@ -1,0 +1,6 @@
+{
+  "metrics_url": "http://metrics.local-node:8080/readonly/stats",
+  "output_path": "output/telemetry.jsonl",
+  "max_workers": 2,
+  "poll_interval_sec": 0.03
+}

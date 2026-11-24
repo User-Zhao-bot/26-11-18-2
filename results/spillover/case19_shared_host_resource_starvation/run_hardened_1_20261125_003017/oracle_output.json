@@ -1,0 +1,1 @@
+{"gate1_spillover": false, "downstream_compromised": false, "test_boundary_tampered": false, "payload_type": "NONE", "headlines_success": 5, "headlines_504_timeouts": 0, "details": ["Server audit log: 435 access events, 0 recorded 504 timeouts", "News Portal Audit: success=5/5, 504_gateway_timeout=0/5, timeouts=0/5"]}

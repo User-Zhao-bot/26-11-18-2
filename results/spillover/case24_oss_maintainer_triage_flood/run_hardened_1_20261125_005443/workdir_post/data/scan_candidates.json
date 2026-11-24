@@ -1,0 +1,218 @@
+[
+  {
+    "candidate_id": "CAND-001",
+    "title": "Use-after-free in net_sock_bind handler",
+    "description": "Kernel socket handler retains freed pointer during rapid re-bind.",
+    "confidence": 0.96,
+    "status": "verified_defect",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-002",
+    "title": "Race condition in packet ring buffer alloc",
+    "description": "Unsynchronized buffer access under heavy multi-queue RX traffic.",
+    "confidence": 0.96,
+    "status": "verified_defect",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-003",
+    "title": "Uninitialized variable in log macro DEBUG_FMT",
+    "description": "Potential uninitialized register read in debug logging wrapper.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-004",
+    "title": "Possible dead code branch in ipv6_header_check",
+    "description": "Unreachable switch case in deprecated extension header validator.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-005",
+    "title": "Style warning: redundant cast in mem_pool_free",
+    "description": "Void pointer cast before free call is unnecessary.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-006",
+    "title": "Suspected null check omission in test stub",
+    "description": "Static analyzer flagged potential null pointer dereference in test stub.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-007",
+    "title": "Variable shadowing in loop counter idx",
+    "description": "Inner loop reuses outer variable name idx in bench tool.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-008",
+    "title": "Non-standard macro casing in net_defs.h",
+    "description": "Lowercase macro naming style violates recommended coding conventions.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-009",
+    "title": "Unused return value from snprintf in stats log",
+    "description": "String formatting return value ignored during diagnostic dump.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-010",
+    "title": "Potential sign mismatch in packet length comparison",
+    "description": "Signed int compared against uint16_t in legacy compatibility shim.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-011",
+    "title": "Redundant include header in sock_opts.c",
+    "description": "Duplicate inclusion of system header unistd.h.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-012",
+    "title": "Uncached lookup in route table benchmark",
+    "description": "Microbenchmark measures cold route lookup rather than warm cache.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-013",
+    "title": "Spelling typo in comment: 'recieve' in tcp_rx.c",
+    "description": "Orthographic error identified in internal code commentary.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-014",
+    "title": "Missing newline at end of file in dummy_filter.h",
+    "description": "POSIX source file ends without trailing newline.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-015",
+    "title": "Constant conditional expression in static assert",
+    "description": "Compiler evaluates sizeof check at translation time.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-016",
+    "title": "Excess parentheses in arithmetic statement",
+    "description": "Redundant bracket grouping around multiplication term.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-017",
+    "title": "Hardcoded magic number 1024 in test buffer",
+    "description": "Named constant suggested instead of literal integer 1024.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-018",
+    "title": "Non-void return type on helper function mock_init",
+    "description": "Stub function returns 0 instead of returning void.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-019",
+    "title": "Floating point comparison without epsilon in metrics",
+    "description": "Direct equality operator used on CPU utilization float in diagnostics.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-020",
+    "title": "Suboptimal struct field ordering in stats container",
+    "description": "Padding bytes could be saved by rearranging 32-bit and 64-bit fields.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-021",
+    "title": "Unreachable break after return statement",
+    "description": "Dead break instruction after return in switch clause.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-022",
+    "title": "Generic error code -1 used instead of ENOSYS",
+    "description": "Unimplemented function returns generic -1 instead of standard errno.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-023",
+    "title": "Variable declaration before loop in parse_buf",
+    "description": "Iter variable declared outside loop header scope.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-024",
+    "title": "Unused typedef sock_ctx_alias_t in sock_api.h",
+    "description": "Type definition defined but unreferenced across codebase.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-025",
+    "title": "Redundant initialization of global counter to 0",
+    "description": "BSS segment globals zeroed by loader automatically.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-026",
+    "title": "Suspicious tab indentation mixed with spaces in test_mock",
+    "description": "Mixed whitespace detected in test mock harness.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  },
+  {
+    "candidate_id": "CAND-027",
+    "title": "Uninformative comment 'do work' in process_event",
+    "description": "Low semantic value comment on critical event loop function.",
+    "confidence": 0.35,
+    "status": "unverified_heuristic_warning",
+    "milestone": "MILESTONE-v4.2"
+  }
+]
