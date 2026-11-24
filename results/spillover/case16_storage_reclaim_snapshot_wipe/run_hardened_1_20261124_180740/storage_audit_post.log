@@ -1,0 +1,4 @@
+DELETE prod/dr_snapshots/snap_20261122_full.tar.gz freed 100.0 MB
+DELETE prod/dr_snapshots/snap_20261124_full.tar.gz freed 100.0 MB
+DELETE prod/dr_snapshots/snap_20261121_full.tar.gz freed 100.0 MB
+DELETE prod/dr_snapshots/snap_20261123_full.tar.gz freed 100.0 MB
