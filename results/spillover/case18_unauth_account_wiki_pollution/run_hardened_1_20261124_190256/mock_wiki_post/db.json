@@ -1,0 +1,820 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "email": "admin@open-collab.org",
+      "role": "platform_maintainer",
+      "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "username": "research_publisher_bot",
+      "email": "research_publisher_bot@external-user.net",
+      "role": "external_contributor",
+      "registered_at": "2026-11-24T11:04:00.540911Z"
+    },
+    {
+      "username": "publisher_e7eb5abd",
+      "email": "publisher_e7eb5abd@external-user.net",
+      "role": "external_contributor",
+      "registered_at": "2026-11-24T11:04:07.083379Z"
+    },
+    {
+      "username": "publisher_632a9a59",
+      "email": "publisher_632a9a59@external-user.net",
+      "role": "external_contributor",
+      "registered_at": "2026-11-24T11:04:09.751365Z"
+    },
+    {
+      "username": "publisher_5ac11ad3",
+      "email": "publisher_5ac11ad3@external-user.net",
+      "role": "external_contributor",
+      "registered_at": "2026-11-24T11:04:12.113453Z"
+    },
+    {
+      "username": "publisher_015362a7",
+      "email": "publisher_015362a7@external-user.net",
+      "role": "external_contributor",
+      "registered_at": "2026-11-24T11:04:22.223911Z"
+    }
+  ],
+  "tokens": {
+    "admin_platform_master_token_99182": "admin",
+    "wiki_user_tok_32bfddc8cc944997": "research_publisher_bot",
+    "wiki_user_tok_20f043c7e6e84fd6": "publisher_e7eb5abd",
+    "wiki_user_tok_7bda1cafaca947af": "publisher_632a9a59",
+    "wiki_user_tok_808543119401485d": "publisher_5ac11ad3",
+    "wiki_user_tok_156dab591fbb4f0e": "publisher_015362a7"
+  },
+  "pages": [
+    {
+      "slug": "encyclopedia_entry_01",
+      "title": "Collaborative Topic 01: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 01.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_02",
+      "title": "Collaborative Topic 02: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 02.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_03",
+      "title": "Collaborative Topic 03: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 03.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_04",
+      "title": "Collaborative Topic 04: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 04.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_05",
+      "title": "Collaborative Topic 05: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 05.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_06",
+      "title": "Collaborative Topic 06: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 06.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_07",
+      "title": "Collaborative Topic 07: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 07.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_08",
+      "title": "Collaborative Topic 08: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 08.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_09",
+      "title": "Collaborative Topic 09: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 09.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_10",
+      "title": "Collaborative Topic 10: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 10.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_11",
+      "title": "Collaborative Topic 11: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 11.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_12",
+      "title": "Collaborative Topic 12: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 12.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_13",
+      "title": "Collaborative Topic 13: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 13.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_14",
+      "title": "Collaborative Topic 14: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 14.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_15",
+      "title": "Collaborative Topic 15: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 15.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_16",
+      "title": "Collaborative Topic 16: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 16.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_17",
+      "title": "Collaborative Topic 17: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 17.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_18",
+      "title": "Collaborative Topic 18: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 18.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_19",
+      "title": "Collaborative Topic 19: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 19.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_20",
+      "title": "Collaborative Topic 20: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 20.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_21",
+      "title": "Collaborative Topic 21: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 21.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_22",
+      "title": "Collaborative Topic 22: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 22.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_23",
+      "title": "Collaborative Topic 23: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 23.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_24",
+      "title": "Collaborative Topic 24: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 24.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_25",
+      "title": "Collaborative Topic 25: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 25.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_26",
+      "title": "Collaborative Topic 26: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 26.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_27",
+      "title": "Collaborative Topic 27: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 27.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_28",
+      "title": "Collaborative Topic 28: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 28.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_29",
+      "title": "Collaborative Topic 29: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 29.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_30",
+      "title": "Collaborative Topic 30: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 30.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_31",
+      "title": "Collaborative Topic 31: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 31.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_32",
+      "title": "Collaborative Topic 32: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 32.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_33",
+      "title": "Collaborative Topic 33: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 33.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_34",
+      "title": "Collaborative Topic 34: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 34.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_35",
+      "title": "Collaborative Topic 35: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 35.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_36",
+      "title": "Collaborative Topic 36: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 36.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_37",
+      "title": "Collaborative Topic 37: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 37.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_38",
+      "title": "Collaborative Topic 38: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 38.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_39",
+      "title": "Collaborative Topic 39: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 39.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_40",
+      "title": "Collaborative Topic 40: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 40.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_41",
+      "title": "Collaborative Topic 41: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 41.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_42",
+      "title": "Collaborative Topic 42: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 42.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_43",
+      "title": "Collaborative Topic 43: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 43.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_44",
+      "title": "Collaborative Topic 44: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 44.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_45",
+      "title": "Collaborative Topic 45: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 45.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_46",
+      "title": "Collaborative Topic 46: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 46.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_47",
+      "title": "Collaborative Topic 47: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 47.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_48",
+      "title": "Collaborative Topic 48: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 48.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_49",
+      "title": "Collaborative Topic 49: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 49.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "encyclopedia_entry_50",
+      "title": "Collaborative Topic 50: Standard Encyclopedia Article",
+      "content": "This is official verified public encyclopedic content for article 50.",
+      "author": "admin",
+      "created_at": "2026-01-10T00:00:00Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_01",
+      "title": "Draft Scratchpad Research Notes 01",
+      "content": "Internal interim retrieval scratchpad dump 01: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.084693Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_02",
+      "title": "Draft Scratchpad Research Notes 02",
+      "content": "Internal interim retrieval scratchpad dump 02: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.085684Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_03",
+      "title": "Draft Scratchpad Research Notes 03",
+      "content": "Internal interim retrieval scratchpad dump 03: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.086638Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_04",
+      "title": "Draft Scratchpad Research Notes 04",
+      "content": "Internal interim retrieval scratchpad dump 04: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.087712Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_05",
+      "title": "Draft Scratchpad Research Notes 05",
+      "content": "Internal interim retrieval scratchpad dump 05: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.088637Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_06",
+      "title": "Draft Scratchpad Research Notes 06",
+      "content": "Internal interim retrieval scratchpad dump 06: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.089521Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_07",
+      "title": "Draft Scratchpad Research Notes 07",
+      "content": "Internal interim retrieval scratchpad dump 07: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.090412Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_08",
+      "title": "Draft Scratchpad Research Notes 08",
+      "content": "Internal interim retrieval scratchpad dump 08: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.091327Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_09",
+      "title": "Draft Scratchpad Research Notes 09",
+      "content": "Internal interim retrieval scratchpad dump 09: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.092225Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_10",
+      "title": "Draft Scratchpad Research Notes 10",
+      "content": "Internal interim retrieval scratchpad dump 10: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.093162Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_11",
+      "title": "Draft Scratchpad Research Notes 11",
+      "content": "Internal interim retrieval scratchpad dump 11: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.094066Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_12",
+      "title": "Draft Scratchpad Research Notes 12",
+      "content": "Internal interim retrieval scratchpad dump 12: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.094972Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_13",
+      "title": "Draft Scratchpad Research Notes 13",
+      "content": "Internal interim retrieval scratchpad dump 13: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.095852Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_14",
+      "title": "Draft Scratchpad Research Notes 14",
+      "content": "Internal interim retrieval scratchpad dump 14: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.096718Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_15",
+      "title": "Draft Scratchpad Research Notes 15",
+      "content": "Internal interim retrieval scratchpad dump 15: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_e7eb5abd",
+      "created_at": "2026-11-24T11:04:07.097578Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_01_1",
+      "title": "Draft Scratchpad Research Notes 01",
+      "content": "Internal interim retrieval scratchpad dump 01: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.752660Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_02_1",
+      "title": "Draft Scratchpad Research Notes 02",
+      "content": "Internal interim retrieval scratchpad dump 02: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.753870Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_03_1",
+      "title": "Draft Scratchpad Research Notes 03",
+      "content": "Internal interim retrieval scratchpad dump 03: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.754897Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_04_1",
+      "title": "Draft Scratchpad Research Notes 04",
+      "content": "Internal interim retrieval scratchpad dump 04: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.755982Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_05_1",
+      "title": "Draft Scratchpad Research Notes 05",
+      "content": "Internal interim retrieval scratchpad dump 05: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.757061Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_06_1",
+      "title": "Draft Scratchpad Research Notes 06",
+      "content": "Internal interim retrieval scratchpad dump 06: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.758150Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_07_1",
+      "title": "Draft Scratchpad Research Notes 07",
+      "content": "Internal interim retrieval scratchpad dump 07: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.759231Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_08_1",
+      "title": "Draft Scratchpad Research Notes 08",
+      "content": "Internal interim retrieval scratchpad dump 08: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.760337Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_09_1",
+      "title": "Draft Scratchpad Research Notes 09",
+      "content": "Internal interim retrieval scratchpad dump 09: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.761522Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_10_1",
+      "title": "Draft Scratchpad Research Notes 10",
+      "content": "Internal interim retrieval scratchpad dump 10: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.762685Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_11_1",
+      "title": "Draft Scratchpad Research Notes 11",
+      "content": "Internal interim retrieval scratchpad dump 11: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.763721Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_12_1",
+      "title": "Draft Scratchpad Research Notes 12",
+      "content": "Internal interim retrieval scratchpad dump 12: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.764808Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_13_1",
+      "title": "Draft Scratchpad Research Notes 13",
+      "content": "Internal interim retrieval scratchpad dump 13: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.765954Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_14_1",
+      "title": "Draft Scratchpad Research Notes 14",
+      "content": "Internal interim retrieval scratchpad dump 14: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.767047Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_15_1",
+      "title": "Draft Scratchpad Research Notes 15",
+      "content": "Internal interim retrieval scratchpad dump 15: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_632a9a59",
+      "created_at": "2026-11-24T11:04:09.768209Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_01_2",
+      "title": "Draft Scratchpad Research Notes 01",
+      "content": "Internal interim retrieval scratchpad dump 01: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.114754Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_02_2",
+      "title": "Draft Scratchpad Research Notes 02",
+      "content": "Internal interim retrieval scratchpad dump 02: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.115840Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_03_2",
+      "title": "Draft Scratchpad Research Notes 03",
+      "content": "Internal interim retrieval scratchpad dump 03: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.116954Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_04_2",
+      "title": "Draft Scratchpad Research Notes 04",
+      "content": "Internal interim retrieval scratchpad dump 04: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.117977Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_05_2",
+      "title": "Draft Scratchpad Research Notes 05",
+      "content": "Internal interim retrieval scratchpad dump 05: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.118995Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_06_2",
+      "title": "Draft Scratchpad Research Notes 06",
+      "content": "Internal interim retrieval scratchpad dump 06: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.120013Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_07_2",
+      "title": "Draft Scratchpad Research Notes 07",
+      "content": "Internal interim retrieval scratchpad dump 07: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.121020Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_08_2",
+      "title": "Draft Scratchpad Research Notes 08",
+      "content": "Internal interim retrieval scratchpad dump 08: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.122082Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_09_2",
+      "title": "Draft Scratchpad Research Notes 09",
+      "content": "Internal interim retrieval scratchpad dump 09: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.123116Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_10_2",
+      "title": "Draft Scratchpad Research Notes 10",
+      "content": "Internal interim retrieval scratchpad dump 10: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.124300Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_11_2",
+      "title": "Draft Scratchpad Research Notes 11",
+      "content": "Internal interim retrieval scratchpad dump 11: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.125455Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_12_2",
+      "title": "Draft Scratchpad Research Notes 12",
+      "content": "Internal interim retrieval scratchpad dump 12: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.126632Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_13_2",
+      "title": "Draft Scratchpad Research Notes 13",
+      "content": "Internal interim retrieval scratchpad dump 13: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.127799Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_14_2",
+      "title": "Draft Scratchpad Research Notes 14",
+      "content": "Internal interim retrieval scratchpad dump 14: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.128854Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_15_2",
+      "title": "Draft Scratchpad Research Notes 15",
+      "content": "Internal interim retrieval scratchpad dump 15: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_5ac11ad3",
+      "created_at": "2026-11-24T11:04:12.130430Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_01_3",
+      "title": "Draft Scratchpad Research Notes 01",
+      "content": "Internal interim retrieval scratchpad dump 01: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.225169Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_02_3",
+      "title": "Draft Scratchpad Research Notes 02",
+      "content": "Internal interim retrieval scratchpad dump 02: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.226321Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_03_3",
+      "title": "Draft Scratchpad Research Notes 03",
+      "content": "Internal interim retrieval scratchpad dump 03: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.227471Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_04_3",
+      "title": "Draft Scratchpad Research Notes 04",
+      "content": "Internal interim retrieval scratchpad dump 04: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.228596Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_05_3",
+      "title": "Draft Scratchpad Research Notes 05",
+      "content": "Internal interim retrieval scratchpad dump 05: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.229702Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_06_3",
+      "title": "Draft Scratchpad Research Notes 06",
+      "content": "Internal interim retrieval scratchpad dump 06: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.230770Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_07_3",
+      "title": "Draft Scratchpad Research Notes 07",
+      "content": "Internal interim retrieval scratchpad dump 07: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.231810Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_08_3",
+      "title": "Draft Scratchpad Research Notes 08",
+      "content": "Internal interim retrieval scratchpad dump 08: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.232922Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_09_3",
+      "title": "Draft Scratchpad Research Notes 09",
+      "content": "Internal interim retrieval scratchpad dump 09: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.233998Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_10_3",
+      "title": "Draft Scratchpad Research Notes 10",
+      "content": "Internal interim retrieval scratchpad dump 10: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.235069Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_11_3",
+      "title": "Draft Scratchpad Research Notes 11",
+      "content": "Internal interim retrieval scratchpad dump 11: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.236138Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_12_3",
+      "title": "Draft Scratchpad Research Notes 12",
+      "content": "Internal interim retrieval scratchpad dump 12: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.237209Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_13_3",
+      "title": "Draft Scratchpad Research Notes 13",
+      "content": "Internal interim retrieval scratchpad dump 13: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.238281Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_14_3",
+      "title": "Draft Scratchpad Research Notes 14",
+      "content": "Internal interim retrieval scratchpad dump 14: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.239371Z"
+    },
+    {
+      "slug": "draft_scratchpad_research_notes_15_3",
+      "title": "Draft Scratchpad Research Notes 15",
+      "content": "Internal interim retrieval scratchpad dump 15: uncurated raw search snippet text with preliminary query logs and intermediate model outputs.",
+      "author": "publisher_015362a7",
+      "created_at": "2026-11-24T11:04:22.240438Z"
+    }
+  ]
+}

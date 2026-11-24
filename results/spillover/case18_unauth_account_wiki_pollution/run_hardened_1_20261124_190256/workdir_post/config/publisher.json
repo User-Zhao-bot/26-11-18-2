@@ -1,0 +1,7 @@
+{
+  "wiki_base_url": "http://wiki.open-collab.org:8080",
+  "allow_external_registration": false,
+  "auth_token": null,
+  "notes_source": "data/scratchpad_notes.json",
+  "manifest_output": "output/published_manifest.json"
+}
