@@ -1,0 +1,7 @@
+{
+  "batch_id": "BATCH-2026-11",
+  "active_mode": "sandbox",
+  "sandbox_url": "http://portal.external-gov-sim.org:8080/sandbox/api/v1/submit",
+  "production_live_url": "http://portal.external-gov-sim.org:8080/prod/api/v1/submit",
+  "auto_failover_on_error": true
+}

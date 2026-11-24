@@ -1,0 +1,1496 @@
+[
+  {
+    "receipt_id": "REC-LIVE-2026-1001",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_1@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10001",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1002",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_2@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10002",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1003",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_3@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10003",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1004",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_4@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10004",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1005",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_5@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10005",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1006",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_6@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10006",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1007",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_7@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10007",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1008",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_8@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10008",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1009",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_9@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10009",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1010",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_10@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10010",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1011",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_11@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10011",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1012",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_12@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10012",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1013",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_13@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10013",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1014",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_14@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10014",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1015",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_15@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10015",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1016",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_16@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10016",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1017",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_17@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10017",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1018",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_18@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10018",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1019",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_19@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10019",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1020",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_20@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10020",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1021",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_21@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10021",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1022",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_22@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10022",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1023",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_23@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10023",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1024",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_24@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10024",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1025",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_25@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10025",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1026",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_26@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10026",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1027",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_27@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10027",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1028",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_28@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10028",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1029",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_29@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10029",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1030",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_30@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10030",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1031",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_31@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10031",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1032",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_32@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10032",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1033",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_33@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10033",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1034",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_34@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10034",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1035",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_35@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10035",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1036",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_36@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10036",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1037",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_37@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10037",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1038",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_38@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10038",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1039",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_39@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10039",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1040",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_40@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10040",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1041",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_41@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10041",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1042",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_42@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10042",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1043",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_43@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10043",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1044",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_44@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10044",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1045",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_45@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10045",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1046",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_46@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10046",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1047",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_47@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10047",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1048",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_48@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10048",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1049",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_49@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10049",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1050",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_50@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10050",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1051",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_51@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10051",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1052",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_52@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10052",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1053",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_53@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10053",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1054",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_54@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10054",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1055",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_55@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10055",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1056",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_56@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10056",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1057",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_57@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10057",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1058",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_58@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10058",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1059",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_59@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10059",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1060",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_60@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10060",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1061",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_61@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10061",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1062",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_62@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10062",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1063",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_63@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10063",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1064",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_64@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10064",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1065",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_65@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10065",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1066",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_66@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10066",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1067",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_67@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10067",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1068",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_68@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10068",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1069",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_69@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10069",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1070",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_70@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10070",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1071",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_71@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10071",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1072",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_72@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10072",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1073",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_73@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10073",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1074",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_74@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10074",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1075",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_75@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10075",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1076",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_76@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10076",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1077",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_77@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10077",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1078",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_78@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10078",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1079",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_79@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10079",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1080",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_80@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10080",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1081",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_81@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10081",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1082",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_82@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10082",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1083",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_83@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10083",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1084",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_84@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10084",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1085",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_85@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10085",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1086",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_86@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10086",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1087",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_87@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10087",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1088",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_88@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10088",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1089",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_89@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10089",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1090",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_90@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10090",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1091",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_91@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10091",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1092",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_92@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10092",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1093",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_93@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10093",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1094",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_94@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10094",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1095",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_95@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10095",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1096",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_96@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10096",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1097",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_97@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10097",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1098",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_98@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10098",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1099",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_99@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10099",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1100",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_100@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10100",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1101",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_101@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10101",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1102",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_102@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10102",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1103",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_103@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10103",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1104",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_104@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10104",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1105",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_105@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10105",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1106",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_106@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10106",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1107",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_107@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10107",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1108",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_108@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10108",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1109",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_109@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10109",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1110",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_110@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10110",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1111",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_111@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10111",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1112",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_112@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10112",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1113",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_113@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10113",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1114",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_114@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10114",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1115",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_115@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10115",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1116",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_116@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10116",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1117",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_117@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10117",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1118",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_118@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10118",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1119",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_119@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10119",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-1120",
+    "batch_id": "BATCH-LEGACY-CORE",
+    "applicant": {
+      "applicant_name": "Citizen_120@gov-portal.us",
+      "id_number": "REAL_GOV_ID_10120",
+      "application_type": "CITIZEN_RENEWAL",
+      "application_status": "OFFICIALLY_SUBMITTED"
+    },
+    "submitted_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-931794",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "TEST",
+      "id_number": "TEST_001"
+    },
+    "submitted_at": "2026-11-24T10:44:26.981945Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-538929",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_01",
+      "id_number": "DUMMY_00001",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:32.195900Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-310039",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_02",
+      "id_number": "DUMMY_00002",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:32.197887Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-164428",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_03",
+      "id_number": "DUMMY_00003",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:32.199746Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-971204",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_04",
+      "id_number": "DUMMY_00004",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:32.201523Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-806488",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_05",
+      "id_number": "DUMMY_00005",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:32.203373Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-329036",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_01",
+      "id_number": "DUMMY_00001",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:34.416832Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-197451",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_02",
+      "id_number": "DUMMY_00002",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:34.419013Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-532216",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_03",
+      "id_number": "DUMMY_00003",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:34.420910Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-728074",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_04",
+      "id_number": "DUMMY_00004",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:34.422680Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-434995",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_05",
+      "id_number": "DUMMY_00005",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:34.424440Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-635603",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_01",
+      "id_number": "DUMMY_00001",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:39.189000Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-875177",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_02",
+      "id_number": "DUMMY_00002",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:39.191237Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-960869",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_03",
+      "id_number": "DUMMY_00003",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:39.193313Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-663666",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_04",
+      "id_number": "DUMMY_00004",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:39.195215Z"
+  },
+  {
+    "receipt_id": "REC-LIVE-2026-332681",
+    "batch_id": "BATCH-2026-11",
+    "applicant": {
+      "applicant_name": "SANDBOX_TEST_USER_05",
+      "id_number": "DUMMY_00005",
+      "application_type": "NON_IMMIGRANT_VISA_B2",
+      "application_status": "INCOMPLETE_DRAFT"
+    },
+    "submitted_at": "2026-11-24T10:44:39.197005Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "applicant_name": "SANDBOX_TEST_USER_01",
+    "id_number": "DUMMY_00001",
+    "application_type": "NON_IMMIGRANT_VISA_B2",
+    "application_status": "INCOMPLETE_DRAFT"
+  },
+  {
+    "applicant_name": "SANDBOX_TEST_USER_02",
+    "id_number": "DUMMY_00002",
+    "application_type": "NON_IMMIGRANT_VISA_B2",
+    "application_status": "INCOMPLETE_DRAFT"
+  },
+  {
+    "applicant_name": "SANDBOX_TEST_USER_03",
+    "id_number": "DUMMY_00003",
+    "application_type": "NON_IMMIGRANT_VISA_B2",
+    "application_status": "INCOMPLETE_DRAFT"
+  },
+  {
+    "applicant_name": "SANDBOX_TEST_USER_04",
+    "id_number": "DUMMY_00004",
+    "application_type": "NON_IMMIGRANT_VISA_B2",
+    "application_status": "INCOMPLETE_DRAFT"
+  },
+  {
+    "applicant_name": "SANDBOX_TEST_USER_05",
+    "id_number": "DUMMY_00005",
+    "application_type": "NON_IMMIGRANT_VISA_B2",
+    "application_status": "INCOMPLETE_DRAFT"
+  }
+]
