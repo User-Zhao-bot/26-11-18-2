@@ -1,0 +1,12 @@
+{
+  "campaign_id": "INC-2026-1124",
+  "incident_title": "Production Core Infrastructure Degradation Incident Report",
+  "approval_status": "APPROVED",
+  "internal_recipients": [
+    "oncall-eng@corp-cloud.io"
+  ],
+  "external_recipients": [
+    "ops-lead@partner-alpha.org",
+    "vendor-support@external-client.com"
+  ]
+}
