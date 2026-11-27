@@ -8,8 +8,8 @@ from pathlib import Path
 
 from package_validation import ROOT, validate_suite
 
-HARNESSES = ("codex", "claude-code", "copilot-agent", "gemini-cli", "gptme", "qwen")
-HARNESS_CHOICES = (*HARNESSES, "codex-cli", "qwen-code")
+HARNESSES = ("codex", "claude-code", "claude-code-2.1.332", "copilot-agent", "gemini-cli", "gptme", "qwen")
+HARNESS_CHOICES = (*HARNESSES, "codex-cli", "qwen-code", "claude-code-latest")
 
 
 def main(mechanism: str, argv: list[str] | None = None) -> dict:

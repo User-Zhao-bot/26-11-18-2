@@ -11,8 +11,8 @@ RUN apt-get update -qq && \
 RUN pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple \
     pytest pydantic "starlette>=0.37.2,<0.39.0" httpx uvicorn
 
-# Install Claude Code CLI globally
-RUN npm install -g @anthropic-ai/claude-code
+# Install Claude Code CLI globally (pinned 2.1.332)
+RUN npm install -g @anthropic-ai/claude-code@2.1.332
 
 # Create devuser (UID 1000)
 RUN useradd -u 1000 -m -s /bin/bash devuser && \

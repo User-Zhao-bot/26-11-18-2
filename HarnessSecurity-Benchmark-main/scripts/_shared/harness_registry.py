@@ -5,16 +5,18 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parents[1]
-ALIASES = {"codex-cli": "codex", "qwen-code": "qwen"}
-HARNESS_IDS = ("codex-cli", "claude-code", "copilot-agent", "gemini-cli", "gptme", "qwen-code")
+ALIASES = {"codex-cli": "codex", "qwen-code": "qwen", "claude-code-latest": "claude-code-2.1.332"}
+HARNESS_IDS = ("codex-cli", "claude-code", "claude-code-2.1.332", "copilot-agent", "gemini-cli", "gptme", "qwen-code")
 
 
 def canonical_id(value):
-    return {recipe: identity for identity, recipe in ALIASES.items()}.get(value, value)
+    if value == "claude-code-latest":
+        return "claude-code-2.1.332"
+    return {recipe: identity for identity, recipe in ALIASES.items() if identity != "claude-code-latest"}.get(value, value)
 
 
 def recipe_id(value):
-    if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", value):
+    if not re.fullmatch(r"[a-z0-9]+(?:[-.][a-z0-9]+)*", value):
         raise ValueError(f"Invalid harness ID: {value!r}")
     return ALIASES.get(value, value)
 

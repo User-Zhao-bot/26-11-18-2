@@ -5,7 +5,8 @@ external/
 __pycache__/
 *.pyc
 *.eval
-results/raw/
+results/
+spillover_benchmark/results/
 CircumEval*
 .DS_Store
 */.DS_Store

@@ -70,6 +70,17 @@
       "path_restriction": "O",
       "project_trust": "O",
       "readonly_mode": "O"
+    },
+    "claude-code-2.1.332": {
+      "auto_approve_mode": "O",
+      "command_allowlist": "O",
+      "command_denylist": "O",
+      "mcp_permission": "C",
+      "network_isolation": "O",
+      "prompt_injection_filter": "D",
+      "path_restriction": "C",
+      "project_trust": "C",
+      "readonly_mode": "O"
     }
   }
 }
